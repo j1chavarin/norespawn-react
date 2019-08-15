@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cockpit/
+Disallow: /game/
+Sitemap: https://norspawn.com/sitemap.xml
