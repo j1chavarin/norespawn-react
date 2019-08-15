@@ -1,5 +1,5 @@
 <?php
-	const BASEURL = "http://norspawn.loc/cockpit/api/";
+	const BASEURL = "https://norespawn.netlify.com/cockpit/api/";
 	const TOKEN = "?token=db1efa54f7cd2d651b2e24f20f2e01";
 	
 	const ALL_COLLECTIONS = "collections/listCollections";
